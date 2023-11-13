@@ -2,6 +2,9 @@
 #include <vector>
 #include <chrono>
 
+// TODO
+// gray cells for already visited
+
 using std::cout;
 using std::vector;
 using namespace std::chrono;
@@ -111,6 +114,5 @@ static void move(Ant &A, vector<Cell> &board, const unsigned int size){
     A.x = (A.x + dx[A.direction] + size) % size;
     A.y = (A.y + dy[A.direction] + size) % size;
 }
-
 
 /* MAC: compile using 'clang++ -std=c++11 -stdlib=libc++ -Weverything ant_sim.cpp' */
