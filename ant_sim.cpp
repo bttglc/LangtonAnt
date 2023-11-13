@@ -1,13 +1,11 @@
 #include <iostream>
 #include <vector>
-#include <chrono>
 
 // TODO
 // gray cells for already visited
 
 using std::cout;
 using std::vector;
-using namespace std::chrono;
 
 // Define the maximum size for the NxN board
 static const unsigned int N = 500;
@@ -39,8 +37,6 @@ static bool visited(Cell);
 
 int main()
 {    
-    // Start the timer
-    auto start_time = high_resolution_clock::now();
     
     // Vector to store the number of iterations required for each board size
     vector<unsigned int> iterations(N + 1, 0);
@@ -48,13 +44,6 @@ int main()
 
     // Run simulation for each board size from 2 to N
     for (unsigned int i = 2; i < N; ++i) iterations[i] = simulate(i); 
-
-    // Stop the timer
-    auto end_time = high_resolution_clock::now();
-    auto duration = duration_cast<milliseconds>(end_time - start_time).count();
-
-    // Print the time taken for all simulations
-    cout << "Total time taken for all simulations: " << duration << " milliseconds.\\n";
 
     return 0;
 }
