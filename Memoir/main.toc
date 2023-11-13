@@ -1,0 +1,36 @@
+\contentsline {section}{\numberline {1}Introduction}{3}{}%
+\contentsline {subsection}{\numberline {1.1}Overview}{3}{}%
+\contentsline {subsection}{\numberline {1.2}Contents of the report}{3}{}%
+\contentsline {section}{\numberline {2}Technical prerequisite topics}{3}{}%
+\contentsline {subsection}{\numberline {2.1}Turing machine}{3}{}%
+\contentsline {subsubsection}{\numberline {2.1.1}Universality}{3}{}%
+\contentsline {subsubsection}{\numberline {2.1.2}Cellular automaton}{3}{}%
+\contentsline {subsection}{\numberline {2.2}Entropy}{3}{}%
+\contentsline {subsection}{\numberline {2.3}Attractor}{3}{}%
+\contentsline {section}{\numberline {3}State of the art}{3}{}%
+\contentsline {subsection}{\numberline {3.1}Historical background}{3}{}%
+\contentsline {subsection}{\numberline {3.2}Analysis of behaviour}{3}{}%
+\contentsline {subsection}{\numberline {3.3}Algorithmic developments}{3}{}%
+\contentsline {subsection}{\numberline {3.4}Recent findings}{3}{}%
+\contentsline {subsection}{\numberline {3.5}Open questions}{3}{}%
+\contentsline {section}{\numberline {4}Related topics}{3}{}%
+\contentsline {subsection}{\numberline {4.1}Other cellular automatons}{3}{}%
+\contentsline {subsection}{\numberline {4.2}Variations}{3}{}%
+\contentsline {subsubsection}{\numberline {4.2.1}Multiple ants}{3}{}%
+\contentsline {subsubsection}{\numberline {4.2.2}Multiple colors}{3}{}%
+\contentsline {subsubsection}{\numberline {4.2.3}Different grids}{3}{}%
+\contentsline {subsection}{\numberline {4.3}Busy beaver problem}{3}{}%
+\contentsline {section}{\numberline {5}Explorative work}{4}{}%
+\contentsline {subsection}{\numberline {5.1}Problem on finite grids with wrap-around}{4}{}%
+\contentsline {subsection}{\numberline {5.2}Reason for choice}{4}{}%
+\contentsline {subsection}{\numberline {5.3}Related concepts}{4}{}%
+\contentsline {subsection}{\numberline {5.4}Torus}{4}{}%
+\contentsline {subsubsection}{\numberline {5.4.1}Hamiltonian path}{4}{}%
+\contentsline {subsubsection}{\numberline {5.4.2}Coupon collector}{4}{}%
+\contentsline {subsubsection}{\numberline {5.4.3}Markov chain}{4}{}%
+\contentsline {subsection}{\numberline {5.5}Experiment}{4}{}%
+\contentsline {subsection}{\numberline {5.6}Results}{4}{}%
+\contentsline {subsection}{\numberline {5.7}Analysis of results and discussion}{4}{}%
+\contentsline {section}{\numberline {6}Conclusion}{4}{}%
+\contentsline {section}{\numberline {7}Annexes}{4}{}%
+\contentsline {subsection}{\numberline {7.1}Graphs from case study}{4}{}%
