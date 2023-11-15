@@ -1,9 +1,9 @@
-PWD /Users/bttglc/Documents/01 University/Erasmus 2023-24/UNI/IR/Project/Memoir
+PWD /Users/bttglc/Documents/01 University/Erasmus 2023-24/UNI/IR/Project/LangtonAnt/memoir
 INPUT /usr/local/texlive/2023/texmf.cnf
 INPUT /usr/local/texlive/2023/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/bttglc/Documents/01 University/Erasmus 2023-24/UNI/IR/Project/Memoir/main.tex
-OUTPUT main.log
+INPUT /Users/bttglc/Documents/01 University/Erasmus 2023-24/UNI/IR/Project/LangtonAnt/Memoir/main.tex
+OUTPUT /Users/bttglc/Documents/01 University/Erasmus 2023-24/UNI/IR/Project/LangtonAnt/Memoir/main.log
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/base/article.cls
@@ -41,10 +41,10 @@ INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.de
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-INPUT ./main.aux
-INPUT main.aux
-INPUT main.aux
-OUTPUT main.aux
+INPUT /Users/bttglc/Documents/01 University/Erasmus 2023-24/UNI/IR/Project/LangtonAnt/Memoir/main.aux
+INPUT /Users/bttglc/Documents/01 University/Erasmus 2023-24/UNI/IR/Project/LangtonAnt/Memoir/main.aux
+INPUT /Users/bttglc/Documents/01 University/Erasmus 2023-24/UNI/IR/Project/LangtonAnt/Memoir/main.aux
+OUTPUT /Users/bttglc/Documents/01 University/Erasmus 2023-24/UNI/IR/Project/LangtonAnt/Memoir/main.aux
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
@@ -56,21 +56,21 @@ INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
-OUTPUT main.pdf
+OUTPUT /Users/bttglc/Documents/01 University/Erasmus 2023-24/UNI/IR/Project/LangtonAnt/Memoir/main.pdf
 INPUT /usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
-INPUT ./main.toc
-INPUT main.toc
-INPUT main.toc
+INPUT /Users/bttglc/Documents/01 University/Erasmus 2023-24/UNI/IR/Project/LangtonAnt/Memoir/main.toc
+INPUT /Users/bttglc/Documents/01 University/Erasmus 2023-24/UNI/IR/Project/LangtonAnt/Memoir/main.toc
+INPUT /Users/bttglc/Documents/01 University/Erasmus 2023-24/UNI/IR/Project/LangtonAnt/Memoir/main.toc
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
-OUTPUT main.toc
-INPUT ./main.toc
-INPUT main.toc
-INPUT main.toc
-OUTPUT main.toc
+OUTPUT /Users/bttglc/Documents/01 University/Erasmus 2023-24/UNI/IR/Project/LangtonAnt/Memoir/main.toc
+INPUT /Users/bttglc/Documents/01 University/Erasmus 2023-24/UNI/IR/Project/LangtonAnt/Memoir/main.toc
+INPUT /Users/bttglc/Documents/01 University/Erasmus 2023-24/UNI/IR/Project/LangtonAnt/Memoir/main.toc
+INPUT /Users/bttglc/Documents/01 University/Erasmus 2023-24/UNI/IR/Project/LangtonAnt/Memoir/main.toc
+OUTPUT /Users/bttglc/Documents/01 University/Erasmus 2023-24/UNI/IR/Project/LangtonAnt/Memoir/main.toc
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
-INPUT main.aux
+INPUT /Users/bttglc/Documents/01 University/Erasmus 2023-24/UNI/IR/Project/LangtonAnt/Memoir/main.aux
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb

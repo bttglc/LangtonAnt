@@ -1,6 +1,8 @@
 # Fdb version 4
-["pdflatex"] 1699870725 "/Users/bttglc/Documents/01 University/Erasmus 2023-24/UNI/IR/Project/Memoir/main.tex" "main.pdf" "main" 1699870726 0
-  "/Users/bttglc/Documents/01 University/Erasmus 2023-24/UNI/IR/Project/Memoir/main.tex" 1699870725 1445 68316e1b53abb53770a168bd3f756735 ""
+["pdflatex"] 1700054689 "/Users/bttglc/Documents/01 University/Erasmus 2023-24/UNI/IR/Project/LangtonAnt/Memoir/main.tex" "/Users/bttglc/Documents/01 University/Erasmus 2023-24/UNI/IR/Project/LangtonAnt/Memoir/main.pdf" "main" 1700054689 0
+  "/Users/bttglc/Documents/01 University/Erasmus 2023-24/UNI/IR/Project/LangtonAnt/Memoir/main.aux" 1700054689 4268 021aecc2c2b6c76f6abe3dc9dc9e54cd "pdflatex"
+  "/Users/bttglc/Documents/01 University/Erasmus 2023-24/UNI/IR/Project/LangtonAnt/Memoir/main.tex" 1700054686 1547 a1cae8a3892156a4152c8a72f50cd102 ""
+  "/Users/bttglc/Documents/01 University/Erasmus 2023-24/UNI/IR/Project/LangtonAnt/Memoir/main.toc" 1700054689 2637 ce8c470c3e8fb367501790e04ca6c2a4 "pdflatex"
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -27,12 +29,9 @@
   "/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1691155460 4623355 b8cad38412faebe1ce5b780a45db67bd ""
   "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1691155449 7883462 97e5ec043fa16de34d6165fe9f53666f ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
-  "main.aux" 1699870726 3966 88e3f9f927cf2e4d56efe352a8f377ee "pdflatex"
-  "main.tex" 1699870725 1445 68316e1b53abb53770a168bd3f756735 ""
-  "main.toc" 1699870726 2458 5e98ff5c91042186554180d410e3eb65 "pdflatex"
   (generated)
-  "main.aux"
-  "main.log"
-  "main.pdf"
-  "main.toc"
+  "/Users/bttglc/Documents/01 University/Erasmus 2023-24/UNI/IR/Project/LangtonAnt/Memoir/main.aux"
+  "/Users/bttglc/Documents/01 University/Erasmus 2023-24/UNI/IR/Project/LangtonAnt/Memoir/main.log"
+  "/Users/bttglc/Documents/01 University/Erasmus 2023-24/UNI/IR/Project/LangtonAnt/Memoir/main.pdf"
+  "/Users/bttglc/Documents/01 University/Erasmus 2023-24/UNI/IR/Project/LangtonAnt/Memoir/main.toc"
   (rewritten before read)
