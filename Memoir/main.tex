@@ -20,9 +20,10 @@
 \section{Introduction}
 \subsection{Overview}
 Langton's ant is a two-dimensional universal Turing machine with a very simple set of rules but complex emergent behavior. 
-An "ant" moves on a grid of cells that can be either white or black: depending on the color of the cell it stands on, the ant 
-inverts the color of the cell it stands on at the start and then moves in a certain direction or in the opposite one depending
-on the original color of the starting cell. 
+In its most basic form, an "ant" moves on a grid of cells that can be either white or black: depending on the color of the 
+cell it stands on, the ant rotates in a certain direction before it starts the movement. For example, in the classic version, 
+if the tile is white the ant rotates clock-wise; otherwise, it rotates counterclock-wise. After the rotation has taken place, 
+the ant changes the color of the cell and it moves forward.
 The first few thousands moves produce simple patterns that are often symmetric and repetitive, but after around 11000 moves 
 the ant starts moving in a repetitive manner, creating a "highway" pattern that keeps repeating itself indefinitely.
 
@@ -37,6 +38,8 @@ behaviours life forms could have, simulating them, observing patterns and formul
 advance understanding of actual, real life forms dramatically. For example, we now know that plants regulate their intake and loss of gases 
 via a cellular automaton mechanism where each stoma on the leaf acts as a cell, and we currently use probabilistic cellular automata 
 in statistical and condensed matter physics to study phenomena like fluid dynamics and phase transitions.
+
+\newpage
 
 \subsection{Contents of this report}
 The goal of this paper is to give the reader the tools to summarily understand the problem to then introduce an overview of the state of the art 
@@ -57,6 +60,8 @@ Section 6 is a brief overview of the code we used to conduct the experiment.
 Section 7 is a brief overview of related topics.
 
 Section 8 constitutes the conclusion of the paper and includes our hypothesis and further questions.
+
+Section 9 is the bibliography.
 
 \section{Technical prerequisite topics}
 \subsection{Turing machine}
